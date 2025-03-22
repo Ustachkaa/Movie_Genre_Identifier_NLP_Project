@@ -24,7 +24,7 @@ You can directly run the project in Google Colab without setting up a local envi
 
 1. **Open the Notebook**:  
    Click the "Open in Colab" button below to launch the notebook in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ustachkaa/Movie_Genre_Identifier_NLP_Project/blob/main/movie_genre_identifier_.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ustachkaa/Movie_Genre_Identifier_NLP_Project/blob/main/Movie_genre_identifier_.ipynb)
 
 2. **Run the Notebook**:  
    Follow the step-by-step instructions in the notebook to:
